@@ -6,11 +6,11 @@
     <content type="text"><![CDATA[]]></content>
   </entry>
   <entry>
-    <title><![CDATA[我的第一篇]]></title>
+    <title><![CDATA[序章]]></title>
     <url>%2F2019%2F07%2F27%2F%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%2F</url>
-    <content type="text"><![CDATA[试用随便-列表1 斜线字体加粗字体&lt;html&gt;&lt;/html&gt; 1234567&lt;html&gt; &lt;head&gt; &lt;title&gt; 我是个代码块 &lt;/title&gt; &lt;/head&gt;&lt;/html&gt; 引用]]></content>
+    <content type="text"><![CDATA[hi，你好 欢迎来到小狮子的博客，这里有我分享的关于Java方面的一些程序心得。 一起加油努力学习吧。]]></content>
       <categories>
-        <category>前端</category>
+        <category>序</category>
       </categories>
       <tags>
         <tag>导航</tag>
